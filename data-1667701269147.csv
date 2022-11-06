@@ -1,0 +1,85 @@
+Season_End_Year,Home,Away,HomeGoals,AwayGoals,Result,,,,
+2000,Chelsea,West Ham,0,0,Loss,,,,
+2000,Liverpool,Manchester Utd,2,3,Loss,,,,
+2000,Liverpool,Middlesbrough,0,0,Loss,,,,
+2000,Chelsea,Arsenal,2,3,Loss,,,,
+2000,Chelsea,Leicester City,1,1,Loss,,,Row Labels,Sum of HomeGoals
+2000,Chelsea,Derby County,4,0,Win,,,Chelsea,35
+2000,Liverpool,Southampton,0,0,Loss,,,Arsenal,2
+2000,Liverpool,Chelsea,1,0,Win,,,Loss,2
+2000,Chelsea,Aston Villa,1,0,Win,,,Aston Villa,1
+2000,Chelsea,Sunderland,4,0,Win,,,Win,1
+2000,Liverpool,West Ham,1,0,Win,,,Bradford City,1
+2000,Liverpool,Bradford City,3,1,Win,,,Win,1
+2000,Liverpool,Arsenal,2,0,Win,,,Coventry City,2
+2000,Chelsea,Watford,2,1,Win,,,Win,2
+2000,Liverpool,Watford,0,1,Loss,,,Derby County,4
+2000,Chelsea,Middlesbrough,1,1,Loss,,,Win,4
+2000,Chelsea,Coventry City,2,1,Win,,,Everton,1
+2000,Chelsea,Leeds United,0,2,Loss,,,Loss,1
+2000,Chelsea,Bradford City,1,0,Win,,,Leeds United,0
+2000,Liverpool,Leeds United,3,1,Win,,,Loss,0
+2000,Liverpool,Newcastle Utd,2,1,Win,,,Leicester City,1
+2000,Chelsea,Southampton,1,1,Loss,,,Loss,1
+2000,Chelsea,Liverpool,2,0,Win,,,Liverpool,2
+2000,Liverpool,Sheffield Weds,4,1,Win,,,Win,2
+2000,Chelsea,Manchester Utd,5,0,Win,,,Manchester Utd,5
+2000,Chelsea,Newcastle Utd,1,0,Win,,,Win,5
+2000,Liverpool,Leicester City,0,2,Loss,,,Middlesbrough,1
+2000,Liverpool,Coventry City,2,0,Win,,,Loss,1
+2000,Liverpool,Tottenham,2,0,Win,,,Newcastle Utd,1
+2000,Liverpool,Wimbledon,3,1,Win,,,Win,1
+2000,Chelsea,Tottenham,1,0,Win,,,Sheffield Weds,3
+2000,Chelsea,Wimbledon,3,1,Win,,,Win,3
+2000,Chelsea,Everton,1,1,Loss,,,Southampton,1
+2000,Liverpool,Sunderland,1,1,Loss,,,Loss,1
+2000,Liverpool,Derby County,2,0,Win,,,Sunderland,4
+2000,Liverpool,Everton,0,1,Loss,,,Win,4
+2000,Chelsea,Sheffield Weds,3,0,Win,,,Tottenham,1
+2000,Liverpool,Aston Villa,0,0,Loss,,,Win,1
+,,,,,,,,Watford,2
+,,,,,,,,Win,2
+,,,,,,,,West Ham,0
+,,,,,,,,Loss,0
+,,,,,,,,Wimbledon,3
+,,,,,,,,Win,3
+,,,,,,,,Liverpool,28
+,,,,,,,,Arsenal,2
+,,,,,,,,Win,2
+,,,,,,,,Aston Villa,0
+,,,,,,,,Loss,0
+,,,,,,,,Bradford City,3
+,,,,,,,,Win,3
+,,,,,,,,Chelsea,1
+,,,,,,,,Win,1
+,,,,,,,,Coventry City,2
+,,,,,,,,Win,2
+,,,,,,,,Derby County,2
+,,,,,,,,Win,2
+,,,,,,,,Everton,0
+,,,,,,,,Loss,0
+,,,,,,,,Leeds United,3
+,,,,,,,,Win,3
+,,,,,,,,Leicester City,0
+,,,,,,,,Loss,0
+,,,,,,,,Manchester Utd,2
+,,,,,,,,Loss,2
+,,,,,,,,Middlesbrough,0
+,,,,,,,,Loss,0
+,,,,,,,,Newcastle Utd,2
+,,,,,,,,Win,2
+,,,,,,,,Sheffield Weds,4
+,,,,,,,,Win,4
+,,,,,,,,Southampton,0
+,,,,,,,,Loss,0
+,,,,,,,,Sunderland,1
+,,,,,,,,Loss,1
+,,,,,,,,Tottenham,2
+,,,,,,,,Win,2
+,,,,,,,,Watford,0
+,,,,,,,,Loss,0
+,,,,,,,,West Ham,1
+,,,,,,,,Win,1
+,,,,,,,,Wimbledon,3
+,,,,,,,,Win,3
+,,,,,,,,Grand Total,63
